@@ -1,0 +1,5 @@
+PlexAPI==2.0.2
+requests==2.5.3
+rottentomatoes==2.1
+tmdbsimple==1.5.0
+XlsxWriter==0.9.6
